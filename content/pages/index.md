@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: The Project Room
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is where you can find my passion projects that I have worked very
+      hard for and continue to improve. I have learned so much from each and
+      everyone of these projects in thermodynamics, physics, engineering
+      optimization, and design and fabrication.
     styles:
       self:
         height: auto
