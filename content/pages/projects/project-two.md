@@ -4,7 +4,7 @@ title: TurboJet Engine
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'Watch the process of me creating the turbojet engine over a summer. '
+description: 'Watch the process of me creating the turbojet engine over 2025 summer. '
 featuredImage:
   type: ImageBlock
   url: /images/IMG_4057.PNG
